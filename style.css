@@ -1,0 +1,13 @@
+/*acessando o body*/
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*criando a classe dark-mode para o elemento body*/
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
