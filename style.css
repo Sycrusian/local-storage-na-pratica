@@ -4,6 +4,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: white;
+    color: black;
 }
 
 /*criando a classe dark-mode para o elemento body*/
